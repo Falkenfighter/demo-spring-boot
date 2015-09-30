@@ -1,0 +1,6 @@
+weather.underground:
+  api: "http://api.wunderground.com/api/"
+  key: "6d09eb04ce387f47"
+  features:
+    forecast: "/forecast/q/"
+    conditions: "/conditions/q/"
